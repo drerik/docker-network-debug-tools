@@ -1,0 +1,3 @@
+tcpdump:
+  build: .
+  net: "container:<container to monitor>"
